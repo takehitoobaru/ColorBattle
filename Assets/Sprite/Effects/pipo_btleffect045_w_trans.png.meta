@@ -53,6 +53,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -61,9 +63,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -84,9 +86,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -336,6 +341,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pipo_btleffect045_w_trans_0: -8140307103742388768
+      pipo_btleffect045_w_trans_5: 4965656576538105343
+      pipo_btleffect045_w_trans_8: 6131159493524995825
+      pipo_btleffect045_w_trans_1: 8238565724609292074
+      pipo_btleffect045_w_trans_2: -3850128707188741198
+      pipo_btleffect045_w_trans_7: 7307949364910374185
+      pipo_btleffect045_w_trans_3: -461093171470369365
+      pipo_btleffect045_w_trans_4: 6575101881998750533
+      pipo_btleffect045_w_trans_6: -4740734593209379786
+      pipo_btleffect045_w_trans_9: -1286952450274342710
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
